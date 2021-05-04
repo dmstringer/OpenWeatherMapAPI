@@ -1,0 +1,15 @@
+C:\Users\scott\code\TrueCoders\OpenWeatherMapAPI\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\netcoreapp3.1\OpenWeatherMapAPI.exe
+C:\Users\scott\code\TrueCoders\OpenWeatherMapAPI\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\netcoreapp3.1\OpenWeatherMapAPI.deps.json
+C:\Users\scott\code\TrueCoders\OpenWeatherMapAPI\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\netcoreapp3.1\OpenWeatherMapAPI.runtimeconfig.json
+C:\Users\scott\code\TrueCoders\OpenWeatherMapAPI\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\netcoreapp3.1\OpenWeatherMapAPI.runtimeconfig.dev.json
+C:\Users\scott\code\TrueCoders\OpenWeatherMapAPI\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\netcoreapp3.1\OpenWeatherMapAPI.dll
+C:\Users\scott\code\TrueCoders\OpenWeatherMapAPI\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\netcoreapp3.1\OpenWeatherMapAPI.pdb
+C:\Users\scott\code\TrueCoders\OpenWeatherMapAPI\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\scott\code\TrueCoders\OpenWeatherMapAPI\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.csprojAssemblyReference.cache
+C:\Users\scott\code\TrueCoders\OpenWeatherMapAPI\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.AssemblyInfoInputs.cache
+C:\Users\scott\code\TrueCoders\OpenWeatherMapAPI\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.AssemblyInfo.cs
+C:\Users\scott\code\TrueCoders\OpenWeatherMapAPI\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.csproj.CoreCompileInputs.cache
+C:\Users\scott\code\TrueCoders\OpenWeatherMapAPI\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.csproj.CopyComplete
+C:\Users\scott\code\TrueCoders\OpenWeatherMapAPI\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.dll
+C:\Users\scott\code\TrueCoders\OpenWeatherMapAPI\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.pdb
+C:\Users\scott\code\TrueCoders\OpenWeatherMapAPI\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.genruntimeconfig.cache
